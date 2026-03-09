@@ -2,6 +2,8 @@ PCD a.y. 2025-2026 - ISI LM UNIBO - Cesena Campus
 
 # Lab Activity #04 - 20260309
 
+v1.0.0-20260309
+
 ### Semaphores in Java
 
 - [Lab Notes] Thread Coordination in Java - Library Support
